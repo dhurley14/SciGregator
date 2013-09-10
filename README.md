@@ -2,7 +2,6 @@ SciGregator
 ------------
 ------------
 
-SciGregator is an open source project I am developing that will answer
+SciGregator 
 -----------
-
-[This](https://news.ycombinator.com/item?id=6356790) question.
+is an open source project I am developing that seeks to answer [this](https://news.ycombinator.com/item?id=6356790) question.
